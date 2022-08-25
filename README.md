@@ -9,7 +9,7 @@
 <br/>
 
 
-🔭 I’m currently working on **A virtual machine detection system in c#**
+🔭 I’m currently working on **a virtual machine detection system in c#**
 
 💪 I’m currently learning **Java & C++ with QT**
 
