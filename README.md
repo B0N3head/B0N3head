@@ -13,11 +13,11 @@
 <br/>
 
 
-🔭 I’m currently working on **a virtual machine detection system in c#**
+🔭 I’m currently working on **a hyper acurate media search and downloader in C#**
 
-💪 I’m currently learning **Java & C++ with QT**
+💪 I’m currently learning **nothing atm... 😞**
 
-👯 I’m looking to collaborate on **anything c# networking based**
+👯 I’m looking to collaborate on **almost anything C# related**
 
 <br/>
 
