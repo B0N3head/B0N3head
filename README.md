@@ -15,7 +15,7 @@
 
 🔭 I’m currently working on **a hyper acurate media search and downloader in C#**
 
-💪 I’m currently learning **nothing atm... 😞**
+💪 I’m currently learning **discord.js v14 **
 
 👯 I’m looking to collaborate on **almost anything C# related**
 
