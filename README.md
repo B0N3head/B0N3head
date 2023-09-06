@@ -25,9 +25,9 @@ github-readme-stats is having some issues atm...
 <br/>
 
 
-🔭 I’m currently working on **a hyper acurate media search and downloader in C#**
+🔭 I’m currently working on **a automated diagnostic tool for computers**
 
-💪 I’m currently learning **express.js** 
+💪 I’m currently learning **c++** 
 
 👯 I’m looking to collaborate on **almost anything C# related**
 
