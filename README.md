@@ -16,9 +16,12 @@
   </a>
 </p>
 
-<a href="https://github.com/B0N3head">
+<p align="right" href="https://github.com/B0N3head">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0N3head&theme=dark" />
-</a>
+  <!---
+  <img align="right" src="https://github-trophies.vercel.app/?username=B0N3head&theme=onedark&no-frame=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  --->
+</p>
 
 <br/>
 
@@ -31,7 +34,12 @@
 
 <br/>
 
-**Feel free to contact me on discord _bone.head._**
-<br/>
+Feel free to contact me on [discord](https://discord.com/users/470791776660094977)
 
-Check out my repos bellow 😄
+Check out my repos bellow 😄  
+
+
+<p align="left" href="https://github.com/B0N3head">
+  <img src="https://visitcount.itsvg.in/api?id=B0N3head&icon=1&color=12" />
+</p>
+
