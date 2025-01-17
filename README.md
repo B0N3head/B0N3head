@@ -40,6 +40,6 @@ Check out my repos bellow 😄
 
 
 <p align="left" href="https://github.com/B0N3head">
-  <img src="https://visitcount.itsvg.in/api?id=B0N3head&icon=1&color=12" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FB0N3head&labelColor=%231b1e22&countColor=%23004747" />
 </p>
 
