@@ -26,9 +26,9 @@
 <br/>
 
 
-🔭 I’m currently working on **automation and data collection software for windows**
+🔭 I’m currently working on **gui based automation software for windows**
 
-💪 I’m currently learning **c++** 
+💪 I’m currently learning **rust** 🦀🦀 
 
 👯 I’m looking to collaborate on **almost anything C# related**
 
